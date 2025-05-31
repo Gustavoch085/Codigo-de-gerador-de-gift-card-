@@ -1,0 +1,1 @@
+// WebApp cliente: consulta saldo via QR
